@@ -1,0 +1,58 @@
+@media (min-width: 992px){
+.main-nav-auth-profile-wrap {
+    margin-right: auto;
+    margin-left: 	initial;
+}
+}
+
+.profile-dropdown-menu {
+	left:0;
+	right:initial;
+}
+.navbar-brand {
+	margin-right:initial;
+	margin-left:1rem;
+}
+.nav-categories-item:hover .categories-ul-first > li:hover > ul {
+	right:99%;
+	left:initial;
+}
+.categories-ul-first a .la-angle-left {
+	float:left;
+}
+.mini-cart-item .mini-cart-body-wrap {
+	left:0;
+	right:initial;
+}
+.course-card {
+	box-shadow: 0 2px 4px 0px rgba(0,0,0,.09);
+	border-bottom-left-radius: 	10px;
+	border-bottom-right-radius:10px;
+}
+.course-card .course-card-img-wrap img {
+	border-top-right-radius: 	10px;
+	border-top-left-radius: 	10px;
+}
+.modal-header .close {
+	margin:-1rem auto -1rem -1rem;
+}
+.single-course-info {
+	background: #fff;
+    border: none;
+    box-shadow: none;
+    padding: 0px !important;
+}
+
+.custom-control {
+	padding-right:1.5rem;
+	padding-left:initial;
+}
+.custom-control-label::after {
+	right:-1.5rem;
+	left:initial;
+}
+.custom-control-label::before {
+	right:-1.5rem;
+	left:initial;
+}
+

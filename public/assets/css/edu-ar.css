@@ -1,0 +1,31 @@
+
+.lecture-container-wrap,.lecture-header {
+	direction: 	rtl;
+}
+.lecture-container {
+	margin-right: 350px;
+	margin-left:initial;
+}
+.lecture-title,.lecture-content-article,.discussion-ask-question-form {
+	text-align: right;
+	direction: 	rtl;
+}
+.lecture-sidebar {
+	direction: 	rtl;
+	text-align: 	right;
+}
+.back-to-curriculum {
+	margin-right:20px;
+	margin-left:initial;
+}
+.assignment-header-info,.quiz-submitted-alert {
+	direction: 	rtl;
+	text-align: 	right;
+}
+.modal-header .close {
+	margin:-1rem auto -1rem -1rem;
+}
+.review-modal-nofity-text {
+	text-align: right;
+	direction: 	rtl;
+}
